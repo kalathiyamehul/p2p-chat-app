@@ -16,18 +16,14 @@ Follow these steps to run the project:
 git clone https://github.com/your-username/p2p-chat-app.git
 cd p2p-chat-app
 
-2. Build the Docker Image
+### 2. Build the Docker Image
 docker-compose build --no-cache
 
 
-4. Run the Docker Container
+### 3. Run the Docker Container
 docker-compose up
-
 
 The app will be accessible at http://localhost:3000.
 
 Usage
 Open your browser and go to http://localhost:3000
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details
