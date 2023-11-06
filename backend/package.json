@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@hyperswarm/dht-relay": "^0.4.3",
+    "hyperdht": "^6.9.1",
+    "ws": "^8.14.2"
+  }
+}
