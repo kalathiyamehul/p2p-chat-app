@@ -13,8 +13,8 @@ This is a simple chat application built using Node.js, Express, and Holepunch fo
 Follow these steps to run the project:
 
 ### 1. Clone the repository
-git clone https://github.com/kalathiyamehul/p2p-chat-app.git
-cd p2p-chat-app
+1. git clone https://github.com/kalathiyamehul/p2p-chat-app.git
+2. cd p2p-chat-app
 
 ### 2. Build the Docker Image
 docker-compose build --no-cache
